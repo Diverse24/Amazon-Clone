@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    border: border-box;
+    font-family: Arial;
+}
+.header{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+}
+.header img{
+    display: flex;
+    justify-content: center;
+    height: 40px;
+}
+.form{
+    height: 350px;
+    width: 350px;
+    border: 0.5px solid #cccccc;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+.p1{
+    padding-top: 25px;
+    padding-right: 220px;
+    font-size: 1.6rem;
+}
+.p2{
+    padding-top: 17px;
+    padding-right: 100px;
+    padding-bottom: 5px;
+    font-size: 0.8rem;
+    font-weight: 550;
+}
+.form input{
+    padding-top: 10px;
+    width: 81%;
+    border: 1.8px solid #cccccf;
+    border-radius: 3px;
+}
+.form button{
+    background-color: rgb(255, 196, 0);
+    width: 83%;
+    height: 30px;
+    align-items: center;
+    border: none;
+    border-radius: 9px;
+    margin-top: 12px;
+}
+.p3{
+    font-size: 0.75rem;
+    padding-left: 30px;
+    padding-top: 17px;
+    padding-right: 38px;
+    text-align: left;
+}
+.p4{
+    font-size: 0.8rem;
+    padding-right: 210px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+}
+.p3 a{
+    color: rgb(42, 89, 178);
+    text-decoration: underline;
+}
+.p4 a{
+    color: rgb(42, 89, 178);
+}
+hr{
+    width: 80%;
+}
+.p5{
+    font-size: 0.75rem;
+    font-weight: 550;
+    padding-top: 20px;
+    padding-right: 180px;
+}
+.p6{
+    font-size: 0.8rem;
+    color:rgb(42, 89, 178);
+    padding-top: 15px;
+    padding-right: 136px;
+}
